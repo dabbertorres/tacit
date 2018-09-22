@@ -64,7 +64,7 @@ textarea {
 }
 
 label {
-  display: inline-block;
+  display: flex;
   margin-bottom: .7 * $em;
 
   + * {
